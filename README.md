@@ -1,4 +1,3 @@
-# Regression_Analysis_on_Household_Victimization
 Overview
 This project analyzes household victimization patterns during two major crises—2008 Mortgage Crisis and the 2018 COVID-era—using regression techniques. The goal is to model the likelihood of victimization based on socio-economic and demographic factors.
 
@@ -34,6 +33,6 @@ Logistic regression provided robust, high-accuracy predictions.
 Results can support policy and community-level decision-making in crisis planning.
 
 Tech Stack
-Language: R
 
+Language: R
 Methods: Logistic Regression, Stepwise Regression, Cross-Validation
